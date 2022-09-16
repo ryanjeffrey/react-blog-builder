@@ -22,9 +22,7 @@ export default function Home() {
         setTitle={setTitle}
         subtitle={subtitle}
         setSubtitle={setSubtitle}
-        font={font}
         setFont={setFont}
-        align={align}
         setAlign={setAlign}
         text={text}
         setText={setText}
